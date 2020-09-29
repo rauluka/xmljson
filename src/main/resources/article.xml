@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<article>
+    <title>Amazing history of XML.</title>
+    <publicationDate>12/04/1575</publicationDate>
+    <authors>
+        <author>
+            <firstName>John</firstName>
+            <secondName>Doe</secondName>
+        </author>
+        <author>
+            <firstName>Marry</firstName>
+            <secondName>Boe</secondName>
+        </author>
+    </authors>
+    <content>History ox XML is not amazing. Fin.</content>
+    <metadata>
+        <tag>satire</tag>
+        <rating>5 stars</rating>
+    </metadata>
+</article>

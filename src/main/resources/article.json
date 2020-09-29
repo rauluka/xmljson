@@ -1,0 +1,19 @@
+{
+  "title": "Amazing history of XML.",
+  "publicationDate": "12/04/1575",
+  "authors": [
+    {
+      "firstName": "John",
+      "secondName": "Doe"
+    },
+    {
+      "firstName": "Marry",
+      "secondName": "Boe"
+    }
+  ],
+  "content": "History of XML is not amazing. Fin.",
+  "metadata": {
+    "tag": "satire",
+    "rating": "5 stars"
+  }
+}
